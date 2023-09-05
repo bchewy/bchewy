@@ -1,6 +1,7 @@
 ## Hi! I'm Brian.
+Currently a year 2 IS (Information Systems) student at SMU, Singapore Management University.
 
-I enjoy Web, API, as well as cloud development.
+In love with the Cloud, API and Web Development.
 
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-chew/)
