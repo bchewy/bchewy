@@ -1,3 +1,2 @@
 ## Hi! I'm Brian!
-Information Systems @ SMU;
-AWS Cloud Captain.
+information systems @sgSMU; @aws cloud captain; @perplexity_ai campus strategist; devops/cloud/ai lover
